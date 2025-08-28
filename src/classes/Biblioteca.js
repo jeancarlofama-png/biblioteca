@@ -778,13 +778,13 @@ class Biblioteca {
   obterImagemPadrao(tipo) {
     switch (tipo) {
       case "autor":
-        return "./assets/images/foto.jpeg";
+        return "https://jeancoelho.com.br/biblioteca/JC_Biblioteca/assets/images/foto.jpeg";
       case "usuario":
-        return "./assets/images/foto.jpeg";
+        return "https://jeancoelho.com.br/biblioteca/JC_Biblioteca/assets/images/foto.jpeg";
       case "livro":
-        return "./assets/images/capa.jpeg";
+        return "https://jeancoelho.com.br/biblioteca/JC_Biblioteca/assets/images/capa.jpeg";
       default:
-        return "./assets/images/foto.jpeg";
+        return "https://jeancoelho.com.br/biblioteca/JC_Biblioteca/assets/images/foto.jpeg";
     }
   }
 

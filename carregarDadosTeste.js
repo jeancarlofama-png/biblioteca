@@ -22,122 +22,122 @@ function popularDadosDeTeste() {
       "Gabriel García Márquez",
       "Colombiana",
       "1927-03-06",
-      "https://github.com/jeancarlofama-png/biblioteca/tree/main/assets/images/assets/images/foto.jpeg",
+      "https://jeancoelho.com.br/biblioteca/JC_Biblioteca/assets/images/autores/gabriel.jpeg",
     ],
     [
       "Machado de Assis",
       "Brasileira",
       "1839-06-21",
-      "https://github.com/jeancarlofama-png/biblioteca/tree/main/assets/images/assets/images/foto.jpeg",
+      "https://jeancoelho.com.br/biblioteca/JC_Biblioteca/assets/images/autores/machado.jpeg",
     ],
     [
       "Clarice Lispector",
       "Brasileira",
       "1920-12-10",
-      "https://github.com/jeancarlofama-png/biblioteca/tree/main/assets/images/assets/images/foto.jpeg",
+      "https://jeancoelho.com.br/biblioteca/JC_Biblioteca/assets/images/autores/clarice.jpeg",
     ],
     [
       "George Orwell",
       "Britânica",
       "1903-06-25",
-      "https://github.com/jeancarlofama-png/biblioteca/tree/main/assets/images/assets/images/foto.jpeg",
+      "https://jeancoelho.com.br/biblioteca/JC_Biblioteca/assets/images/autores/george.jpeg",
     ],
     [
       "Isaac Asimov",
       "Russo-Americana",
       "1920-01-02",
-      "https://github.com/jeancarlofama-png/biblioteca/tree/main/assets/images/assets/images/foto.jpeg",
+      "https://jeancoelho.com.br/biblioteca/JC_Biblioteca/assets/images/autores/isaac.jpeg",
     ],
     [
       "Agatha Christie",
       "Britânica",
       "1890-09-15",
-      "https://github.com/jeancarlofama-png/biblioteca/tree/main/assets/images/assets/images/foto.jpeg",
+      "https://jeancoelho.com.br/biblioteca/JC_Biblioteca/assets/images/autores/Agatha.jpeg",
     ],
     [
       "J.K. Rowling",
       "Britânica",
       "1965-07-31",
-      "https://github.com/jeancarlofama-png/biblioteca/tree/main/assets/images/assets/images/foto.jpeg",
+      "https://jeancoelho.com.br/biblioteca/JC_Biblioteca/assets/images/autores/jk.jpeg",
     ],
     [
       "Stephen King",
       "Americana",
       "1947-09-21",
-      "https://github.com/jeancarlofama-png/biblioteca/tree/main/assets/images/assets/images/foto.jpeg",
+      "https://jeancoelho.com.br/biblioteca/JC_Biblioteca/assets/images/autores/Stephen.jpg",
     ],
     [
       "Haruki Murakami",
       "Japonesa",
       "1949-01-12",
-      "https://github.com/jeancarlofama-png/biblioteca/tree/main/assets/images/assets/images/foto.jpeg",
+      "https://jeancoelho.com.br/biblioteca/JC_Biblioteca/assets/images/autores/Haruki.jpeg",
     ],
     [
       "Guimarães Rosa",
       "Brasileira",
       "1908-06-25",
-      "https://github.com/jeancarlofama-png/biblioteca/tree/main/assets/images/assets/images/foto.jpeg",
+      "https://jeancoelho.com.br/biblioteca/JC_Biblioteca/assets/images/autores/Guimaraes.jpeg",
     ],
     [
       "Jane Austen",
       "Britânica",
       "1775-12-16",
-      "https://github.com/jeancarlofama-png/biblioteca/tree/main/assets/images/assets/images/foto.jpeg",
+      "https://jeancoelho.com.br/biblioteca/JC_Biblioteca/assets/images/autores/jane.jpeg",
     ],
 
     [
-      "Tolkien",
+      "J.R.R. Tolkien",
       "Britânica",
       "1892-01-03",
-      "https://github.com/jeancarlofama-png/biblioteca/tree/main/assets/images/assets/images/foto.jpeg",
+      "https://jeancoelho.com.br/biblioteca/JC_Biblioteca/assets/images/autores/Tolkien.jpeg",
     ],
     [
       "C.S. Lewis",
       "Britânica",
       "1898-11-29",
-      "https://github.com/jeancarlofama-png/biblioteca/tree/main/assets/images/assets/images/foto.jpeg",
+      "https://jeancoelho.com.br/biblioteca/JC_Biblioteca/assets/images/autores/Lewis.jpeg",
     ],
     [
       "L. M. Montgomery",
       "Canadense",
       "1874-11-30",
-      "https://github.com/jeancarlofama-png/biblioteca/tree/main/assets/images/assets/images/foto.jpeg",
+      "https://jeancoelho.com.br/biblioteca/JC_Biblioteca/assets/images/autores/Montgomery.jpeg",
     ],
     [
       "Antoine de Saint-Exupéry",
       "Francesa",
       "1900-06-29",
-      "https://github.com/jeancarlofama-png/biblioteca/tree/main/assets/images/assets/images/foto.jpeg",
+      "https://jeancoelho.com.br/biblioteca/JC_Biblioteca/assets/images/autores/Antoine.jpeg",
     ],
     [
       "Sun Tzu",
       "Chinesa",
       "544-01-01",
-      "https://github.com/jeancarlofama-png/biblioteca/tree/main/assets/images/assets/images/foto.jpeg",
+      "https://jeancoelho.com.br/biblioteca/JC_Biblioteca/assets/images/autores/sun.jpeg",
     ],
     [
       "Laozi",
       "Chinesa",
       "604-01-01",
-      "https://github.com/jeancarlofama-png/biblioteca/tree/main/assets/images/assets/images/foto.jpeg",
+      "https://jeancoelho.com.br/biblioteca/JC_Biblioteca/assets/images/autores/Laozi.jpeg",
     ],
     [
       "Confúcio",
       "Chinesa",
       "551-09-28",
-      "https://github.com/jeancarlofama-png/biblioteca/tree/main/assets/images/assets/images/foto.jpeg",
+      "https://jeancoelho.com.br/biblioteca/JC_Biblioteca/assets/images/autores/Confucio.jpeg",
     ],
     [
       "Platão",
       "Grega",
       "428-01-01",
-      "https://github.com/jeancarlofama-png/biblioteca/tree/main/assets/images/assets/images/foto.jpeg",
+      "https://jeancoelho.com.br/biblioteca/JC_Biblioteca/assets/images/autores/Platao.jpeg",
     ],
     [
       "Aristóteles",
       "Grega",
       "384-01-01",
-      "https://github.com/jeancarlofama-png/biblioteca/tree/main/assets/images/assets/images/foto.jpeg",
+      "https://jeancoelho.com.br/biblioteca/JC_Biblioteca/assets/images/autores/Aristoteles.jpeg",
     ],
   ];
   autoresData.forEach((data) => biblioteca.adicionarAutor(new Autor(...data)));
@@ -347,84 +347,84 @@ function popularDadosDeTeste() {
       "A101",
       "joao@email.com",
       "9999-1111",
-      "http://127.0.0.1:5500/assets/images/foto.jpeg"
+      "https://jeancoelho.com.br/biblioteca/JC_Biblioteca/assets/images/foto.jpeg"
     ),
     new UsuarioAluno(
       "Maria Souza",
       "A102",
       "maria@email.com",
       "9999-2222",
-      "http://127.0.0.1:5500/assets/images/foto.jpeg"
+      "https://jeancoelho.com.br/biblioteca/JC_Biblioteca/assets/images/foto.jpeg"
     ),
     new UsuarioAluno(
       "Carlos Pereira",
       "A103",
       "carlos@email.com",
       "9999-3333",
-      "http://127.0.0.1:5500/assets/images/foto.jpeg"
+      "https://jeancoelho.com.br/biblioteca/JC_Biblioteca/assets/images/foto.jpeg"
     ),
     new UsuarioAluno(
       "Ana Lima",
       "A104",
       "ana@email.com",
       "9999-4444",
-      "http://127.0.0.1:5500/assets/images/foto.jpeg"
+      "https://jeancoelho.com.br/biblioteca/JC_Biblioteca/assets/images/foto.jpeg"
     ),
     new UsuarioProfessor(
       "Dr. Ricardo Santos",
       "P201",
       "ricardo@email.com",
       "8888-1111",
-      "http://127.0.0.1:5500/assets/images/foto.jpeg"
+      "https://jeancoelho.com.br/biblioteca/JC_Biblioteca/assets/images/foto.jpeg"
     ),
     new UsuarioProfessor(
       "Dra. Fernanda Costa",
       "P202",
       "fernanda@email.com",
       "8888-2222",
-      "http://127.0.0.1:5500/assets/images/foto.jpeg"
+      "https://jeancoelho.com.br/biblioteca/JC_Biblioteca/assets/images/foto.jpeg"
     ),
     new UsuarioProfessor(
       "Prof. José Oliveira",
       "P203",
       "jose@email.com",
       "8888-3333",
-      "http://127.0.0.1:5500/assets/images/foto.jpeg"
+      "https://jeancoelho.com.br/biblioteca/JC_Biblioteca/assets/images/foto.jpeg"
     ),
     new UsuarioProfessor(
       "Profa. Paula Almeida",
       "P204",
       "paula@email.com",
       "8888-4444",
-      "http://127.0.0.1:5500/assets/images/foto.jpeg"
+      "https://jeancoelho.com.br/biblioteca/JC_Biblioteca/assets/images/foto.jpeg"
     ),
     new UsuarioFuncionario(
       "Pedro Rocha",
       "F301",
       "pedro@email.com",
       "7777-1111",
-      "http://127.0.0.1:5500/assets/images/foto.jpeg"
+      "https://jeancoelho.com.br/biblioteca/JC_Biblioteca/assets/images/foto.jpeg"
     ),
     new UsuarioFuncionario(
       "Julia Gomes",
       "F302",
       "julia@email.com",
       "7777-2222",
-      "http://127.0.0.1:5500/assets/images/foto.jpeg"
+      "https://jeancoelho.com.br/biblioteca/JC_Biblioteca/assets/images/foto.jpeg"
     ),
     new UsuarioFuncionario(
       "Lucia Martins",
       "F303",
       "lucia@email.com",
       "7777-3333",
-      "http://127.0.0.1:5500/assets/images/foto.jpeg"
+      "https://jeancoelho.com.br/biblioteca/JC_Biblioteca/assets/images/foto.jpeg"
     ),
     new UsuarioFuncionario(
       "Fernando Silva",
       "F304",
       "fernando@email.com",
       "7777-4444",
-      "http://127.0.0.1:5500/assets/images/foto.jpeg"
+      "https://jeancoelho.com.br/biblioteca/JC_Biblioteca/assets/images/foto.jpeg"
     ),
   ];
   usuarios.forEach((usuario) => biblioteca.adicionarUsuario(usuario));
