@@ -28,116 +28,116 @@ function popularDadosDeTeste() {
       "Machado de Assis",
       "Brasileira",
       "1839-06-21",
-      "http://127.0.0.1:5500/assets/images/foto.jpeg",
+      "https://github.com/jeancarlofama-png/biblioteca/tree/main/assets/images/assets/images/foto.jpeg",
     ],
     [
       "Clarice Lispector",
       "Brasileira",
       "1920-12-10",
-      "http://127.0.0.1:5500/assets/images/foto.jpeg",
+      "https://github.com/jeancarlofama-png/biblioteca/tree/main/assets/images/assets/images/foto.jpeg",
     ],
     [
       "George Orwell",
       "Britânica",
       "1903-06-25",
-      "http://127.0.0.1:5500/assets/images/foto.jpeg",
+      "https://github.com/jeancarlofama-png/biblioteca/tree/main/assets/images/assets/images/foto.jpeg",
     ],
     [
       "Isaac Asimov",
       "Russo-Americana",
       "1920-01-02",
-      "http://127.0.0.1:5500/assets/images/foto.jpeg",
+      "https://github.com/jeancarlofama-png/biblioteca/tree/main/assets/images/assets/images/foto.jpeg",
     ],
     [
       "Agatha Christie",
       "Britânica",
       "1890-09-15",
-      "http://127.0.0.1:5500/assets/images/foto.jpeg",
+      "https://github.com/jeancarlofama-png/biblioteca/tree/main/assets/images/assets/images/foto.jpeg",
     ],
     [
       "J.K. Rowling",
       "Britânica",
       "1965-07-31",
-      "http://127.0.0.1:5500/assets/images/foto.jpeg",
+      "https://github.com/jeancarlofama-png/biblioteca/tree/main/assets/images/assets/images/foto.jpeg",
     ],
     [
       "Stephen King",
       "Americana",
       "1947-09-21",
-      "http://127.0.0.1:5500/assets/images/foto.jpeg",
+      "https://github.com/jeancarlofama-png/biblioteca/tree/main/assets/images/assets/images/foto.jpeg",
     ],
     [
       "Haruki Murakami",
       "Japonesa",
       "1949-01-12",
-      "http://127.0.0.1:5500/assets/images/foto.jpeg",
+      "https://github.com/jeancarlofama-png/biblioteca/tree/main/assets/images/assets/images/foto.jpeg",
     ],
     [
       "Guimarães Rosa",
       "Brasileira",
       "1908-06-25",
-      "http://127.0.0.1:5500/assets/images/foto.jpeg",
+      "https://github.com/jeancarlofama-png/biblioteca/tree/main/assets/images/assets/images/foto.jpeg",
     ],
     [
       "Jane Austen",
       "Britânica",
       "1775-12-16",
-      "http://127.0.0.1:5500/assets/images/foto.jpeg",
+      "https://github.com/jeancarlofama-png/biblioteca/tree/main/assets/images/assets/images/foto.jpeg",
     ],
 
     [
       "Tolkien",
       "Britânica",
       "1892-01-03",
-      "http://127.0.0.1:5500/assets/images/foto.jpeg",
+      "https://github.com/jeancarlofama-png/biblioteca/tree/main/assets/images/assets/images/foto.jpeg",
     ],
     [
       "C.S. Lewis",
       "Britânica",
       "1898-11-29",
-      "http://127.0.0.1:5500/assets/images/foto.jpeg",
+      "https://github.com/jeancarlofama-png/biblioteca/tree/main/assets/images/assets/images/foto.jpeg",
     ],
     [
       "L. M. Montgomery",
       "Canadense",
       "1874-11-30",
-      "http://127.0.0.1:5500/assets/images/foto.jpeg",
+      "https://github.com/jeancarlofama-png/biblioteca/tree/main/assets/images/assets/images/foto.jpeg",
     ],
     [
       "Antoine de Saint-Exupéry",
       "Francesa",
       "1900-06-29",
-      "http://127.0.0.1:5500/assets/images/foto.jpeg",
+      "https://github.com/jeancarlofama-png/biblioteca/tree/main/assets/images/assets/images/foto.jpeg",
     ],
     [
       "Sun Tzu",
       "Chinesa",
       "544-01-01",
-      "http://127.0.0.1:5500/assets/images/foto.jpeg",
+      "https://github.com/jeancarlofama-png/biblioteca/tree/main/assets/images/assets/images/foto.jpeg",
     ],
     [
       "Laozi",
       "Chinesa",
       "604-01-01",
-      "http://127.0.0.1:5500/assets/images/foto.jpeg",
+      "https://github.com/jeancarlofama-png/biblioteca/tree/main/assets/images/assets/images/foto.jpeg",
     ],
     [
       "Confúcio",
       "Chinesa",
       "551-09-28",
-      "http://127.0.0.1:5500/assets/images/foto.jpeg",
+      "https://github.com/jeancarlofama-png/biblioteca/tree/main/assets/images/assets/images/foto.jpeg",
     ],
     [
       "Platão",
       "Grega",
       "428-01-01",
-      "http://127.0.0.1:5500/assets/images/foto.jpeg",
+      "https://github.com/jeancarlofama-png/biblioteca/tree/main/assets/images/assets/images/foto.jpeg",
     ],
     [
       "Aristóteles",
       "Grega",
       "384-01-01",
-      "http://127.0.0.1:5500/assets/images/foto.jpeg",
+      "https://github.com/jeancarlofama-png/biblioteca/tree/main/assets/images/assets/images/foto.jpeg",
     ],
   ];
   autoresData.forEach((data) => biblioteca.adicionarAutor(new Autor(...data)));
@@ -154,7 +154,7 @@ function popularDadosDeTeste() {
       1967,
       "Realismo Mágico",
       "Sudamericana",
-      "http://127.0.0.1:5500/assets/images/capa.jpeg",
+      "https://github.com/jeancarlofama-png/biblioteca/tree/main/assets/images/assets/images/capas/cem_anos_de_solidao.jpg",
     ],
     [
       "Memórias Póstumas de Brás Cubas",
@@ -163,7 +163,7 @@ function popularDadosDeTeste() {
       1881,
       "Romance",
       "Ateliê Editorial",
-      "http://127.0.0.1:5500/assets/images/capa.jpeg",
+      "https://github.com/jeancarlofama-png/biblioteca/tree/main/assets/images/assets/images/capas/memorias_postumas_de_bras_cubas.jpg",
     ],
     [
       "A Hora da Estrela",
@@ -172,7 +172,7 @@ function popularDadosDeTeste() {
       1977,
       "Ficção Filosófica",
       "Rocco",
-      "http://127.0.0.1:5500/assets/images/capa.jpeg",
+      "https://github.com/jeancarlofama-png/biblioteca/tree/main/assets/images/assets/images/capas/a_hora_da_estrela.jpg",
     ],
     [
       "1984",
@@ -181,7 +181,7 @@ function popularDadosDeTeste() {
       1949,
       "Distopia",
       "Signet Classic",
-      "http://127.0.0.1:5500/assets/images/capa.jpeg",
+      "https://github.com/jeancarlofama-png/biblioteca/tree/main/assets/images/assets/images/capas/1984.jpg",
     ],
     [
       "Fundação",
@@ -190,7 +190,7 @@ function popularDadosDeTeste() {
       1951,
       "Ficção Científica",
       "Bantam Spectra",
-      "http://127.0.0.1:5500/assets/images/capa.jpeg",
+      "https://github.com/jeancarlofama-png/biblioteca/tree/main/assets/images/assets/images/capas/fundacao.jpg",
     ],
     [
       "E Não Sobrou Nenhum",
@@ -199,7 +199,7 @@ function popularDadosDeTeste() {
       1939,
       "Mistério",
       "William Morrow",
-      "http://127.0.0.1:5500/assets/images/capa.jpeg",
+      "https://github.com/jeancarlofama-png/biblioteca/tree/main/assets/images/assets/images/capas/e_nao_sobrou_nenhum.jpg",
     ],
     [
       "Harry Potter e a Pedra Filosofal",
@@ -208,7 +208,7 @@ function popularDadosDeTeste() {
       1997,
       "Fantasia",
       "Bloomsbury",
-      "http://127.0.0.1:5500/assets/images/capa.jpeg",
+      "https://github.com/jeancarlofama-png/biblioteca/tree/main/assets/images/assets/images/capas/harry_potter_e_a_pedra_filosofal.jpg",
     ],
     [
       "A Coisa",
@@ -217,7 +217,7 @@ function popularDadosDeTeste() {
       1986,
       "Terror",
       "Viking",
-      "http://127.0.0.1:5500/assets/images/capa.jpeg",
+      "https://github.com/jeancarlofama-png/biblioteca/tree/main/assets/images/assets/images/capas/a_coisa.jpg",
     ],
     [
       "Kafka à Beira-Mar",
@@ -226,7 +226,7 @@ function popularDadosDeTeste() {
       2002,
       "Ficção",
       "Knopf",
-      "http://127.0.0.1:5500/assets/images/capa.jpeg",
+      "https://github.com/jeancarlofama-png/biblioteca/tree/main/assets/images/assets/images/capas/kafka_a_beira_mar.jpg",
     ],
     [
       "Grande Sertão: Veredas",
@@ -235,7 +235,7 @@ function popularDadosDeTeste() {
       1956,
       "Romance",
       "Nova Fronteira",
-      "http://127.0.0.1:5500/assets/images/capa.jpeg",
+      "https://github.com/jeancarlofama-png/biblioteca/tree/main/assets/images/assets/images/capas/grande_sertao_veredas.jpg",
     ],
     [
       "Orgulho e Preconceito",
@@ -244,7 +244,7 @@ function popularDadosDeTeste() {
       1813,
       "Romance",
       "Penguin",
-      "http://127.0.0.1:5500/assets/images/capa.jpeg",
+      "https://github.com/jeancarlofama-png/biblioteca/tree/main/assets/images/assets/images/capas/orgulho_e_preconceito.jpg",
     ],
     [
       "O Hobbit",
@@ -253,7 +253,7 @@ function popularDadosDeTeste() {
       1937,
       "Fantasia",
       "Allen & Unwin",
-      "http://127.0.0.1:5500/assets/images/capa.jpeg",
+      "https://github.com/jeancarlofama-png/biblioteca/tree/main/assets/images/assets/images/capas/o_hobbit.jpg",
     ],
     [
       "As Crônicas de Nárnia",
@@ -262,7 +262,7 @@ function popularDadosDeTeste() {
       1950,
       "Fantasia",
       "Geoffrey Bles",
-      "http://127.0.0.1:5500/assets/images/capa.jpeg",
+      "https://github.com/jeancarlofama-png/biblioteca/tree/main/assets/images/assets/images/capas/o_pequeno_principe.jpg",
     ],
     [
       "Anne de Green Gables",
@@ -271,7 +271,7 @@ function popularDadosDeTeste() {
       1908,
       "Ficção",
       "L.C. Page & Co.",
-      "http://127.0.0.1:5500/assets/images/capa.jpeg",
+      "https://github.com/jeancarlofama-png/biblioteca/tree/main/assets/images/assets/images/capas/anne_de_green_gables.jpg",
     ],
     [
       "O Pequeno Príncipe",
@@ -280,7 +280,7 @@ function popularDadosDeTeste() {
       1943,
       "Fábula",
       "Reynal & Hitchcock",
-      "http://127.0.0.1:5500/assets/images/capa.jpeg",
+      "https://github.com/jeancarlofama-png/biblioteca/tree/main/assets/images/assets/images/capas/o_pequeno_principe.jpg",
     ],
     [
       "A Arte da Guerra",
@@ -289,7 +289,7 @@ function popularDadosDeTeste() {
       -500,
       "Filosofia",
       "Penguin",
-      "http://127.0.0.1:5500/assets/images/capa.jpeg",
+      "https://github.com/jeancarlofama-png/biblioteca/tree/main/assets/images/assets/images/capas/a_arte_da_guerra.jpg",
     ],
     [
       "Tao Te Ching",
@@ -298,7 +298,7 @@ function popularDadosDeTeste() {
       -600,
       "Filosofia",
       "Penguin",
-      "http://127.0.0.1:5500/assets/images/capa.jpeg",
+      "https://github.com/jeancarlofama-png/biblioteca/tree/main/assets/images/assets/images/capas/tao_te_ching.jpg",
     ],
     [
       "Analectos de Confúcio",
@@ -307,7 +307,7 @@ function popularDadosDeTeste() {
       -500,
       "Filosofia",
       "Dover",
-      "http://127.0.0.1:5500/assets/images/capa.jpeg",
+      "https://github.com/jeancarlofama-png/biblioteca/tree/main/assets/images/assets/images/capas/analectos_de_confucio.jpg",
     ],
     [
       "A República",
@@ -316,7 +316,7 @@ function popularDadosDeTeste() {
       -380,
       "Filosofia",
       "Hackett",
-      "http://127.0.0.1:5500/assets/images/capa.jpeg",
+      "https://github.com/jeancarlofama-png/biblioteca/tree/main/assets/images/assets/images/capas/a_republica.jpg",
     ],
     [
       "Ética a Nicômaco",
@@ -325,7 +325,7 @@ function popularDadosDeTeste() {
       -350,
       "Filosofia",
       "Penguin",
-      "http://127.0.0.1:5500/assets/images/capa.jpeg",
+      "https://github.com/jeancarlofama-png/biblioteca/tree/main/assets/images/assets/images/capas/etica_a_nicomaco.jpg",
     ],
   ];
   livrosData.forEach((data) => {
