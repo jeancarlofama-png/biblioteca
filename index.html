@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Sistema de Gestão de Biblioteca</title>
+    <link rel="stylesheet" href="./styles/main.css" />
+  </head>
+  <body>
+    <header>
+      <h1>Sistema de Gestão de Biblioteca</h1>
+      <div class="theme-switch-wrapper">
+        <label class="theme-switch" for="checkbox"
+          >Modo Escuro
+          <input type="checkbox" id="checkbox" />
+          <div class="slider round"></div>
+        </label>
+      </div>
+    </header>
+
+    <main class="container">
+      <div class="tabs">
+        <button class="tab-button active" data-tab="dashboard">
+          Principal
+        </button>
+        <button class="tab-button" data-tab="livros">Livros</button>
+        <button class="tab-button" data-tab="autores">Autores</button>
+        <button class="tab-button" data-tab="usuarios">Usuários</button>
+        <button class="tab-button" data-tab="emprestimos">Empréstimos</button>
+        <button class="tab-button" data-tab="relatorios">Relatórios</button>
+      </div>
+
+      <div id="dashboard" class="tab-content active">
+        <h2>Livros Disponíveis</h2>
+        <div id="dashboard-livros-grid" class="livros-grid"></div>
+      </div>
+
+      <div id="autores" class="tab-content"><h2>Gestão de Autores</h2></div>
+      <div id="livros" class="tab-content"><h2>Gestão de Livros</h2></div>
+      <div id="usuarios" class="tab-content"><h2>Gestão de Usuários</h2></div>
+      <div id="emprestimos" class="tab-content">
+        <h2>Gestão de Empréstimos</h2>
+      </div>
+      <div id="relatorios" class="tab-content">
+        <h2>Relatórios e Estatísticas</h2>
+      </div>
+    </main>
+
+    <div id="modal" class="modal">
+      <div class="modal-content">
+        <span class="close-button">&times;</span>
+        <h3 id="modal-title"></h3>
+        <div id="modal-body"></div>
+      </div>
+    </div>
+
+    <script type="module" src="./src/ui/app.js"></script>
+  </body>
+</html>
