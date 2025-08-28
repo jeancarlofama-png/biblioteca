@@ -154,7 +154,7 @@ function popularDadosDeTeste() {
       1967,
       "Realismo Mágico",
       "Sudamericana",
-      "https://github.com/jeancarlofama-png/biblioteca/tree/main/assets/images/assets/images/capas/cem_anos_de_solidao.jpg",
+      "https://jeancoelho.com.br/biblioteca/JC_Biblioteca/assets/images/capas/cem_anos_de_solidao.jpg",
     ],
     [
       "Memórias Póstumas de Brás Cubas",
@@ -163,7 +163,7 @@ function popularDadosDeTeste() {
       1881,
       "Romance",
       "Ateliê Editorial",
-      "https://github.com/jeancarlofama-png/biblioteca/tree/main/assets/images/assets/images/capas/memorias_postumas_de_bras_cubas.jpg",
+      "https://jeancoelho.com.br/biblioteca/JC_Biblioteca/assets/images/capas/memorias_postumas_de_bras_cubas.jpg",
     ],
     [
       "A Hora da Estrela",
@@ -172,7 +172,7 @@ function popularDadosDeTeste() {
       1977,
       "Ficção Filosófica",
       "Rocco",
-      "https://github.com/jeancarlofama-png/biblioteca/tree/main/assets/images/assets/images/capas/a_hora_da_estrela.jpg",
+      "https://jeancoelho.com.br/biblioteca/JC_Biblioteca/assets/images/capas/a_hora_da_estrela.jpg",
     ],
     [
       "1984",
@@ -181,7 +181,7 @@ function popularDadosDeTeste() {
       1949,
       "Distopia",
       "Signet Classic",
-      "https://github.com/jeancarlofama-png/biblioteca/tree/main/assets/images/assets/images/capas/1984.jpg",
+      "https://jeancoelho.com.br/biblioteca/JC_Biblioteca/assets/images/capas/1984.jpg",
     ],
     [
       "Fundação",
@@ -190,7 +190,7 @@ function popularDadosDeTeste() {
       1951,
       "Ficção Científica",
       "Bantam Spectra",
-      "https://github.com/jeancarlofama-png/biblioteca/tree/main/assets/images/assets/images/capas/fundacao.jpg",
+      "https://jeancoelho.com.br/biblioteca/JC_Biblioteca/assets/images/capas/fundacao.jpg",
     ],
     [
       "E Não Sobrou Nenhum",
@@ -199,7 +199,7 @@ function popularDadosDeTeste() {
       1939,
       "Mistério",
       "William Morrow",
-      "https://github.com/jeancarlofama-png/biblioteca/tree/main/assets/images/assets/images/capas/e_nao_sobrou_nenhum.jpg",
+      "https://jeancoelho.com.br/biblioteca/JC_Biblioteca/assets/images/capas/e_nao_sobrou_nenhum.jpg",
     ],
     [
       "Harry Potter e a Pedra Filosofal",
@@ -208,7 +208,7 @@ function popularDadosDeTeste() {
       1997,
       "Fantasia",
       "Bloomsbury",
-      "https://github.com/jeancarlofama-png/biblioteca/tree/main/assets/images/assets/images/capas/harry_potter_e_a_pedra_filosofal.jpg",
+      "https://jeancoelho.com.br/biblioteca/JC_Biblioteca/assets/images/capas/harry_potter_e_a_pedra_filosofal.jpg",
     ],
     [
       "A Coisa",
@@ -217,7 +217,7 @@ function popularDadosDeTeste() {
       1986,
       "Terror",
       "Viking",
-      "https://github.com/jeancarlofama-png/biblioteca/tree/main/assets/images/assets/images/capas/a_coisa.jpg",
+      "https://jeancoelho.com.br/biblioteca/JC_Biblioteca/assets/images/capas/a_coisa.jpg",
     ],
     [
       "Kafka à Beira-Mar",
@@ -226,7 +226,7 @@ function popularDadosDeTeste() {
       2002,
       "Ficção",
       "Knopf",
-      "https://github.com/jeancarlofama-png/biblioteca/tree/main/assets/images/assets/images/capas/kafka_a_beira_mar.jpg",
+      "https://jeancoelho.com.br/biblioteca/JC_Biblioteca/assets/images/capas/kafka_a_beira_mar.jpg",
     ],
     [
       "Grande Sertão: Veredas",
@@ -235,7 +235,7 @@ function popularDadosDeTeste() {
       1956,
       "Romance",
       "Nova Fronteira",
-      "https://github.com/jeancarlofama-png/biblioteca/tree/main/assets/images/assets/images/capas/grande_sertao_veredas.jpg",
+      "https://jeancoelho.com.br/biblioteca/JC_Biblioteca/assets/images/capas/grande_sertao_veredas.jpg",
     ],
     [
       "Orgulho e Preconceito",
@@ -244,7 +244,7 @@ function popularDadosDeTeste() {
       1813,
       "Romance",
       "Penguin",
-      "https://github.com/jeancarlofama-png/biblioteca/tree/main/assets/images/assets/images/capas/orgulho_e_preconceito.jpg",
+      "https://jeancoelho.com.br/biblioteca/JC_Biblioteca/assets/images/capas/orgulho_e_preconceito.jpg",
     ],
     [
       "O Hobbit",
@@ -253,7 +253,7 @@ function popularDadosDeTeste() {
       1937,
       "Fantasia",
       "Allen & Unwin",
-      "https://github.com/jeancarlofama-png/biblioteca/tree/main/assets/images/assets/images/capas/o_hobbit.jpg",
+      "https://jeancoelho.com.br/biblioteca/JC_Biblioteca/assets/images/capas/o_hobbit.jpg",
     ],
     [
       "As Crônicas de Nárnia",
@@ -262,7 +262,7 @@ function popularDadosDeTeste() {
       1950,
       "Fantasia",
       "Geoffrey Bles",
-      "https://github.com/jeancarlofama-png/biblioteca/tree/main/assets/images/assets/images/capas/o_pequeno_principe.jpg",
+      "https://jeancoelho.com.br/biblioteca/JC_Biblioteca/assets/images/capas/as_cronicas_de_narnia.jpg",
     ],
     [
       "Anne de Green Gables",
@@ -271,7 +271,7 @@ function popularDadosDeTeste() {
       1908,
       "Ficção",
       "L.C. Page & Co.",
-      "https://github.com/jeancarlofama-png/biblioteca/tree/main/assets/images/assets/images/capas/anne_de_green_gables.jpg",
+      "https://jeancoelho.com.br/biblioteca/JC_Biblioteca/assets/images/capas/anne_de_green_gables.jpg",
     ],
     [
       "O Pequeno Príncipe",
@@ -280,7 +280,7 @@ function popularDadosDeTeste() {
       1943,
       "Fábula",
       "Reynal & Hitchcock",
-      "https://github.com/jeancarlofama-png/biblioteca/tree/main/assets/images/assets/images/capas/o_pequeno_principe.jpg",
+      "https://jeancoelho.com.br/biblioteca/JC_Biblioteca/assets/images/capas/o_pequeno_principe.jpg",
     ],
     [
       "A Arte da Guerra",
@@ -289,7 +289,7 @@ function popularDadosDeTeste() {
       -500,
       "Filosofia",
       "Penguin",
-      "https://github.com/jeancarlofama-png/biblioteca/tree/main/assets/images/assets/images/capas/a_arte_da_guerra.jpg",
+      "https://jeancoelho.com.br/biblioteca/JC_Biblioteca/assets/images/capas/a_arte_da_guerra.jpg",
     ],
     [
       "Tao Te Ching",
@@ -298,7 +298,7 @@ function popularDadosDeTeste() {
       -600,
       "Filosofia",
       "Penguin",
-      "https://github.com/jeancarlofama-png/biblioteca/tree/main/assets/images/assets/images/capas/tao_te_ching.jpg",
+      "https://jeancoelho.com.br/biblioteca/JC_Biblioteca/assets/images/capas/tao_te_ching.jpg",
     ],
     [
       "Analectos de Confúcio",
@@ -307,7 +307,7 @@ function popularDadosDeTeste() {
       -500,
       "Filosofia",
       "Dover",
-      "https://github.com/jeancarlofama-png/biblioteca/tree/main/assets/images/assets/images/capas/analectos_de_confucio.jpg",
+      "https://jeancoelho.com.br/biblioteca/JC_Biblioteca/assets/images/capas/analectos_de_confucio.jpg",
     ],
     [
       "A República",
@@ -316,7 +316,7 @@ function popularDadosDeTeste() {
       -380,
       "Filosofia",
       "Hackett",
-      "https://github.com/jeancarlofama-png/biblioteca/tree/main/assets/images/assets/images/capas/a_republica.jpg",
+      "https://jeancoelho.com.br/biblioteca/JC_Biblioteca/assets/images/capas/a_republica.jpg",
     ],
     [
       "Ética a Nicômaco",
@@ -325,7 +325,7 @@ function popularDadosDeTeste() {
       -350,
       "Filosofia",
       "Penguin",
-      "https://github.com/jeancarlofama-png/biblioteca/tree/main/assets/images/assets/images/capas/etica_a_nicomaco.jpg",
+      "https://jeancoelho.com.br/biblioteca/JC_Biblioteca/assets/images/capas/etica_a_nicomaco.jpg",
     ],
   ];
   livrosData.forEach((data) => {
