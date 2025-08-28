@@ -22,7 +22,7 @@ function popularDadosDeTeste() {
       "Gabriel García Márquez",
       "Colombiana",
       "1927-03-06",
-      "http://127.0.0.1:5500/assets/images/foto.jpeg",
+      "https://github.com/jeancarlofama-png/biblioteca/tree/main/assets/images/foto.jpeg",
     ],
     [
       "Machado de Assis",
